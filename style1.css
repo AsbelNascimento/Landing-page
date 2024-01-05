@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,600;0,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap');
+
+*{
+    margin: 0;
+    margin-top: 1em;
+    background-color: rgb(29, 29, 29);
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    
+}
+
+.Titulo-1{
+    color: aliceblue;
+    font-size: 50px;
+}
+
+.Titulo-2{
+    color: aliceblue;
+    font-size: 40px;
+}
+
+.Logo{
+    height: 19em;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    width: 100px;
+    height: 100px;
+
+
+}
+
+.cabecalho{
+  color: aliceblue;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 2px;
+  color: aliceblue;
+  justify-content: space-around;
+  padding: 1px;
+  height: 10em;
+  
+}
+
+.cabecalho-menu{
+    display: flex;
+    gap: 72px;
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+.Titulo{
+    font-family: 'Poppins', sans-serif;
+    color: rgb(241, 246, 250);
+    
+    
+}
+
+.Titulo-1{
+    padding: none;
+    margin-left: 3em;
+    margin-top: 3em;
+}
+
+.Titulo-2{
+    margin-left: 11%;
+    margin-top: -25px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.jornada{
+    padding: none;
+    margin-left: 150px;
+    margin-top: 5px;
+    color: aliceblue;
+    
+}
+
+.rodape{
+    margin-left: 20%;
+    margin-top: 20em;
+    color: honeydew;
+    font-family: 'Raleway', sans-serif;
+}
+
+.titulo-sobre{
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+
+.titulo-sobre{
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    margin-left: 200px;
+    font-size: 40px;
+}
+
+.subtitle{
+    padding: none;
+    margin-left: 200px;
+    margin-top: 5px;
+    color: aliceblue;
+}
